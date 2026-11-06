@@ -23,13 +23,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,vite,postgres,html,css,git,linux&perline=14" alt="tech stack" />
 </p>
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manhctd20&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manhctd20&color=blueviolet&style=flat-square" alt="profile views" />
-</p>
