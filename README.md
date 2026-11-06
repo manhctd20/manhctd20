@@ -14,15 +14,14 @@
 
 ### 🧑‍💻 About me
 
-- 🔭 Full-stack: **Java Spring Boot** / NestJS + PostgreSQL ở BE, **React / React Native + TypeScript** ở FE
+- 🔭 Full-stack: **Java Spring Boot** + PostgreSQL ở BE, **React + JavaScript/TypeScript** ở FE
 - 🤖 Đang build **AI dev tooling**: Claude Code plugins, AI code reviewer cho GitLab MR, agent pipeline tự động hoá ticket
-- 🧮 Làm tool nội bộ cho kế toán: đối soát phí ngân hàng, xuất báo cáo XLSX
 - 📫 Liên hệ: **cmanh0603@gmail.com**
 
 ### 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nodejs,nestjs,vite,postgres,python,html,css,git,linux&perline=14" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,vite,postgres,html,css,git,linux&perline=14" alt="tech stack" />
 </p>
 
 ### 📊 GitHub stats
